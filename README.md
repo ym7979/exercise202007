@@ -9,3 +9,5 @@
 #Jame 分支增加的内容
 ![](./apple.jpg)
 图片：apple
+ 
+ ![](./bunny_duck.jpg)
