@@ -7,4 +7,4 @@
 >>>>>>> Stashed changes
 
 #Jame 分支增加的内容
-![](./apple.jpg)
+![](apple.jpg)
