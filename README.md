@@ -11,3 +11,5 @@
 图片：apple
  
  ![](./bunny_duck.jpg)
+ 
+ ![鹿](./deer.jpg)deer
